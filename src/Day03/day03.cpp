@@ -140,15 +140,15 @@ int main()
 {
   int result;
 
-  // // -- PART 1
-  // cout << "==============PART1==============" << endl;
-  // // Run on example input
-  // result = part1("example.txt");
-  // cout << "Priority sum from example.txt is " << result << endl;
+  // -- PART 1
+  cout << "==============PART1==============" << endl;
+  // Run on example input
+  result = part1("example.txt");
+  cout << "Priority sum from example.txt is " << result << endl;
 
-  // // Run on actual input
-  // result = part1("input.txt");
-  // cout << "Priority sum from input.txt is " << result << endl;
+  // Run on actual input
+  result = part1("input.txt");
+  cout << "Priority sum from input.txt is " << result << endl;
 
   // -- PART 2
   cout << endl
